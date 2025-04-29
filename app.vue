@@ -14,8 +14,8 @@
         property: "og:description",
         content: "Aspiring Software Engineer, currently studying as BSCS in VSU-Baybay",
       },
-      { property: "og:image", content: "https://verch-vs.vercel.app/icon.jpg?v=1" },
-      { property: "og:url", content: "https://verch-vs.vercel.app/" },
+      { property: "og:image", content: "https://joshua-sosmena-portfolio.vercel.app/icon.jpg?v=1" },
+      { property: "og:url", content: "https://joshua-sosmena-portfolio.vercel.app/" },
       { property: "og:type", content: "website" },
 
       { name: "twitter:card", content: "summary_large_image" },
@@ -24,7 +24,7 @@
         name: "twitter:description",
         content: "Aspiring Software Engineer, currently studying as BSCS in VSU-Baybay",
       },
-      { name: "twitter:image", content: "https://verch-vs.vercel.app/icon.jpg" },
+      { name: "twitter:image", content: "https://joshua-sosmena-portfolio.vercel.app/icon.jpg" },
     ],
   });
 </script>
