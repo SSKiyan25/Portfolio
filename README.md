@@ -15,4 +15,3 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **Vue.js**: As the core framework for the frontend.
 - **Tailwind CSS**: For responsive and modern styling.
 - **EmailJS**: For handling contact form submissions.
-- **Firebase**: For real-time data management in some projects.
