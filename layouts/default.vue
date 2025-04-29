@@ -18,22 +18,22 @@
             <UiNavigationMenuList class="gap-2">
               <UiNavigationMenuItem>
                 <UiNavigationMenuLink as-child>
-                  <UiButton to="#" variant="ghost" size="sm"> Home</UiButton>
+                  <UiButton to="#header" variant="ghost" size="sm"> Home</UiButton>
                 </UiNavigationMenuLink>
               </UiNavigationMenuItem>
               <UiNavigationMenuItem>
                 <UiNavigationMenuLink as-child>
-                  <UiButton to="#" variant="ghost" size="sm">About</UiButton>
+                  <UiButton to="#about" variant="ghost" size="sm">About</UiButton>
                 </UiNavigationMenuLink>
               </UiNavigationMenuItem>
               <UiNavigationMenuItem>
                 <UiNavigationMenuLink as-child>
-                  <UiButton to="#" variant="ghost" size="sm">Projects</UiButton>
+                  <UiButton to="#projects" variant="ghost" size="sm">Projects</UiButton>
                 </UiNavigationMenuLink>
               </UiNavigationMenuItem>
               <UiNavigationMenuItem>
                 <UiNavigationMenuLink as-child>
-                  <UiButton to="#" variant="ghost" size="sm">Contact</UiButton>
+                  <UiButton to="#contact" variant="ghost" size="sm">Contact</UiButton>
                 </UiNavigationMenuLink>
               </UiNavigationMenuItem>
             </UiNavigationMenuList>
@@ -52,16 +52,16 @@
 
                     <UiScrollArea class="h-full p-5">
                       <div class="flex flex-col gap-2">
-                        <UiButton variant="ghost" class="justify-start text-base" to="#"
+                        <UiButton variant="ghost" class="justify-start text-base" to="#header"
                           >Home</UiButton
                         >
-                        <UiButton variant="ghost" class="justify-start text-base" to="#"
+                        <UiButton variant="ghost" class="justify-start text-base" to="#about"
                           >About</UiButton
                         >
-                        <UiButton variant="ghost" class="justify-start text-base" to="#"
+                        <UiButton variant="ghost" class="justify-start text-base" to="#projects"
                           >Projects</UiButton
                         >
-                        <UiButton variant="ghost" class="justify-start text-base" to="#"
+                        <UiButton variant="ghost" class="justify-start text-base" to="#contact"
                           >Contact</UiButton
                         >
                       </div>

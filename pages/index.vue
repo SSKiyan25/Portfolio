@@ -1,19 +1,21 @@
 <template>
   <div>
-    <ContainerHeader />
+    <ContainerHeader id="header" />
     <UiDivider class="" />
-    <ContainerAbout />
+    <ContainerAbout id="about" />
     <UiDivider class="" />
-    <ContainerProjects />
+    <ContainerProjects id="projects" />
     <UiDivider class="" />
-    <ContainerCertificates />
+    <ContainerCertificates id="certificates" />
     <UiDivider class="" />
-    <ContainerContact />
+    <ContainerContact id="contact" />
     <UiDivider class="" />
-    <ContainerFooter />
+    <ContainerFooter id="footer" />
   </div>
 </template>
 
-<script lang="ts" setup></script>
-
-<style></style>
+<style scoped>
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
