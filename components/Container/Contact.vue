@@ -58,7 +58,7 @@
   import { useForm } from "vee-validate";
   import { object, string } from "yup";
 
-  const regex = /^[^<@#`'"%;\\\[\]{}|&$*^~:/+=\r\n]*$/;
+  const regex = /^[^<@#%;\\\[\]{}|&*^~:/=\r\n]*$/;
 
   const toast = useToast();
 
