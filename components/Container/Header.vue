@@ -29,31 +29,46 @@
 
       <!-- Social Media Buttons -->
       <div class="flex flex-row space-x-4 pt-4">
-        <UiButton to="#" variant="ghost" size="sm">
+        <UiButton
+          to="https://www.facebook.com/josh.sosmena/"
+          variant="ghost"
+          size="sm"
+          target="_blank"
+        >
           <img
             src="/facebook.svg"
             alt="Facebook"
             class="h-8 w-8 opacity-60 hover:opacity-100 sm:h-10 sm:w-10"
           />
         </UiButton>
-        <UiButton to="#" variant="ghost" size="sm">
+        <UiButton to="https://github.com/SSKiyan25" variant="ghost" size="sm" target="_blank">
           <img
             src="/github.svg"
             alt="GitHub"
             class="h-8 w-8 opacity-60 hover:opacity-100 sm:h-10 sm:w-10"
           />
         </UiButton>
-        <UiButton to="#" variant="ghost" size="sm">
-          <img
-            src="/instagram.svg"
-            alt="Instagram"
-            class="h-8 w-8 opacity-60 hover:opacity-100 sm:h-10 sm:w-10"
-          />
-        </UiButton>
-        <UiButton to="#" variant="ghost" size="sm">
+        <UiButton
+          to="https://www.linkedin.com/in/joshua-sosme%C3%B1a-21a12b327/"
+          variant="ghost"
+          size="sm"
+          target="_blank"
+        >
           <img
             src="/linkedin.svg"
             alt="LinkedIn"
+            class="h-8 w-8 opacity-60 hover:opacity-100 sm:h-10 sm:w-10"
+          />
+        </UiButton>
+        <UiButton
+          to="https://www.instagram.com/sskiyan_25/"
+          variant="ghost"
+          size="sm"
+          target="_blank"
+        >
+          <img
+            src="/instagram.svg"
+            alt="Instagram"
             class="h-8 w-8 opacity-60 hover:opacity-100 sm:h-10 sm:w-10"
           />
         </UiButton>

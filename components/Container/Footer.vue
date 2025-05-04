@@ -11,28 +11,32 @@
 
       <!-- Social Media Icons -->
       <div class="flex flex-wrap items-center justify-center gap-4">
-        <UiButton variant="ghost" size="icon-sm">
+        <UiButton to="https://www.facebook.com/josh.sosmena/" variant="ghost" size="icon-sm">
           <img
             src="/facebook.svg"
             alt="Facebook"
             class="h-6 w-6 opacity-60 hover:opacity-100 sm:h-8 sm:w-8 lg:h-10 lg:w-10"
           />
         </UiButton>
-        <UiButton variant="ghost" size="icon-sm">
+        <UiButton to="https://github.com/SSKiyan25" variant="ghost" size="icon-sm">
           <img
             src="/github.svg"
             alt="GitHub"
             class="h-6 w-6 opacity-60 hover:opacity-100 sm:h-8 sm:w-8 lg:h-10 lg:w-10"
           />
         </UiButton>
-        <UiButton variant="ghost" size="icon-sm">
+        <UiButton
+          to="https://www.linkedin.com/in/joshua-sosme%C3%B1a-21a12b327/"
+          variant="ghost"
+          size="icon-sm"
+        >
           <img
             src="/instagram.svg"
             alt="Instagram"
             class="h-6 w-6 opacity-60 hover:opacity-100 sm:h-8 sm:w-8 lg:h-10 lg:w-10"
           />
         </UiButton>
-        <UiButton variant="ghost" size="icon-sm">
+        <UiButton to="https://www.instagram.com/sskiyan_25/" variant="ghost" size="icon-sm">
           <img
             src="/linkedin.svg"
             alt="LinkedIn"
